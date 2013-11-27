@@ -1,9 +1,12 @@
+#!/usr/bin/env python
+
 '''
 Created on 26 Nov 2013
 
 @author: Desmond
 
 Title: Arithmetric Operators
+Adding Shebang on top for linux
 '''
 
 print '1 + 2 ='

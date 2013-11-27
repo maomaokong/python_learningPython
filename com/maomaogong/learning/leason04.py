@@ -1,9 +1,12 @@
+#!/usr/bin/env python
+
 '''
 Created on 26 Nov 2013
 
 @author: t80006407
 
 Title: Variable Assignment
+Adding Shebang on top for linux
 '''
 
 x = 5

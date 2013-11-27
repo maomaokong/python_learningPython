@@ -5,10 +5,15 @@ Created on 27 Nov 2013
 
 @author: t80006407
 
-Title: 1 line program sample - Output
+Title: 5 line program sample - Functions
 
 Adding Shebang on top for linux
 https://wiki.python.org/moin/SimplePrograms
 '''
 
-print "Hello, world!"
+def greet(name):
+    print "Hello", name
+    
+greet("Jack")
+greet("Jill")
+greet("Bob")
